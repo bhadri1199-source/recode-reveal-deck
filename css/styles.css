@@ -1,1 +1,27 @@
+body{
+background:#020617;
+font-family:Inter, Arial, sans-serif;
+}
 
+.reveal h1{
+font-size:70px;
+color:#22d3ee;
+}
+
+.reveal h2{
+font-size:50px;
+color:#22d3ee;
+}
+
+.reveal p{
+font-size:26px;
+color:#cbd5f5;
+}
+
+.reveal ul{
+font-size:28px;
+}
+
+.reveal li{
+margin-bottom:12px;
+}

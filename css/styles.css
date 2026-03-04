@@ -25,3 +25,46 @@ font-size:28px;
 .reveal li{
 margin-bottom:12px;
 }
+
+.hero{
+text-align:center;
+padding-top:120px;
+}
+
+.hero h1{
+font-size:80px;
+}
+
+.hero p{
+font-size:30px;
+color:#a5b4fc;
+}
+
+.two-col{
+display:flex;
+gap:60px;
+align-items:center;
+}
+
+.col{
+flex:1;
+}
+
+.cards{
+display:grid;
+grid-template-columns:1fr 1fr;
+gap:30px;
+margin-top:40px;
+}
+
+.card{
+background:#111827;
+padding:30px;
+border-radius:14px;
+box-shadow:0 10px 25px rgba(0,0,0,0.4);
+}
+
+.card h3{
+color:#4ade80;
+margin-bottom:10px;
+}

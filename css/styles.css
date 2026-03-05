@@ -30,6 +30,16 @@ margin-bottom:6px;
 padding:20px 40px;
 }
 
+.reveal .card h3{
+font-size:22px !important;
+line-height:1.3;
+margin-bottom:8px;
+}
+
+.reveal .card ul{
+font-size:18px;
+}
+
 .hero{
 text-align:center;
 padding-top:28px;

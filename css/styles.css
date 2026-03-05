@@ -31,7 +31,7 @@ margin-top:0;
 }
 
 .reveal .slides{
-margin-top:60px;
+margin-top:-60px !important;
 }
 
 .reveal .slides section{

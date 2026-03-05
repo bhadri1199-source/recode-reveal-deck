@@ -26,11 +26,6 @@ font-size:20px;
 margin-bottom:6px;
 }
 
-.reveal .slides section {
-overflow-y: auto;
-max-height: 90vh;
-}
-
 .hero{
 text-align:center;
 padding-top:120px;

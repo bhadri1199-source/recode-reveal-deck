@@ -38,6 +38,16 @@ margin-top:60px;
 padding-top:80px;
 }
 
+.reveal .slides section {
+display: block;
+text-align: left;
+top: 0 !important;
+}
+
+.reveal section h2{
+margin-top:0;
+}
+
 .reveal .card h3{
 font-size:24px !important;
 line-height:1.25;
@@ -67,8 +77,9 @@ color:#a5b4fc;
 
 .two-col{
 display:flex;
-gap:60px;
-align-items:center;
+align-items:flex-start;
+gap:40px;
+margin-top:20px;
 }
 
 .col{

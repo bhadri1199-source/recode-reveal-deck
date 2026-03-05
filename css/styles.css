@@ -12,6 +12,12 @@ color:#22d3ee;
 font-size:24px;
 color:#22d3ee;
 }
+h2{
+  text-align:'center';
+}
+p{
+  text-align:'center';
+}
 
 .reveal p{
 font-size:16px;
@@ -31,7 +37,7 @@ margin-top:0;
 }
 
 .reveal .slides{
-margin-top:-60px !important;
+margin-top: -60px !important;
 }
 
 .reveal .slides section{

@@ -26,6 +26,11 @@ font-size:20px;
 margin-bottom:6px;
 }
 
+.reveal .slides section {
+overflow-y: auto;
+max-height: 90vh;
+}
+
 .hero{
 text-align:center;
 padding-top:120px;
@@ -55,6 +60,12 @@ display:grid;
 grid-template-columns:1fr 1fr;
 gap:30px;
 margin-top:40px;
+}
+
+.cards{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(260px,1fr));
+gap:20px;
 }
 
 .card{
